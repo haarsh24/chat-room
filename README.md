@@ -1,12 +1,13 @@
- # Vaccine slot booking 🚀
+ # Chat Room Application 🚀
  
- ## This chat room is created using React JS
+ ## This chat room is created using Node Js and Socket.io
  
- ### Try it out: 🌟   [Live demo](https://haarsh24.github.io/covid/)
+ ### Try it out: 🌟   [Live demo](https://harsh-chat-room.herokuapp.com)
  
  ## Features 🧐:
-### -You can connect with your friens and chat with them in real time.
-### -You can know about the FAQs about vaccines .
+### -You can create a room and chat with friends in real time.
+### -You can invite all your frinds to join in the same room and chat with them.
+### -You can share your live location with others.
 
 
  
@@ -20,5 +21,5 @@
  
  
 <p align="center">
-Designed with ❤️ by <a href="https://haarsh24.github.io">Harsh</a>
+Designed with ❤️ by <a href="https://kumarharsh.netlify.app">Harsh</a>
 </p>
